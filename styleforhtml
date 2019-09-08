@@ -1,0 +1,14 @@
+# transparentstyle-for-webpage
+<style>
+.wrapper {
+text-align: center;
+color; white;
+max-width: 900px;
+margin: auto;
+height: 800px;
+padding: 30px;
+.text{
+Background-color: rgba(0,0,0,0,6);
+padding: 20px;
+margin-top: 300px;}
+</style>

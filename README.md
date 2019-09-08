@@ -1,1 +1,0 @@
-# transparentstyle-for-webpage
